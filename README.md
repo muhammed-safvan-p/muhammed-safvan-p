@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**muhammed-safvan-p/muhammed-safvan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### MERN Stack Developer ☼ crafting scalable web experiences & AI-powered solutions ☾
 
-Here are some ideas to get you started:
+Focused on developing modern full-stack applications with clean architecture, efficient backend systems, and seamless user experiences;<br>
+Passionate about transforming ideas into impactful products using the MERN stack and emerging AI technologies;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I work with daily: `.js`, `.react`, `.node`, `.express`, `.mongodb`
+- 🚀 Building responsive, scalable, and performance-focused web applications
+- 🧠 Exploring AI integration and modern software development practices
+- 🌍 Active within the developer ecosystem and continuously improving technical skills
+- 📈 Interested in backend architecture, APIs, system design & real-world problem solving
+- 💬 `ping` me about **mern stack**, **backend development**, **web applications**, **AI integration**
