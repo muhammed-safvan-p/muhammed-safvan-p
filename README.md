@@ -37,3 +37,4 @@ Focused on backend engineering, real-world systems, performance optimization, an
 ---
 
 💬 `ping` me about **backend systems**, **full-stack engineering**, **APIs**, **AI applications**, **scalable web platforms**
+📫 You can find my LinkedIn and email on the left for collaborations, engineering discussions, and professional opportunities.
