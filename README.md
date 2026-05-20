@@ -2,10 +2,10 @@
 
 #### MERN Stack Developer ☼ crafting scalable web experiences & AI-powered solutions ☾
 
-Focused on developing modern full-stack applications with clean architecture, efficient backend systems, and seamless user experiences;<br>
-Passionate about transforming ideas into impactful products using the MERN stack and emerging AI technologies;<br>
+Building scalable full-stack applications with clean architecture, modern backend systems & seamless user experiences;<br>
+Focused on creating impactful products using the MERN stack and AI-powered technologies;<br>
 
-- ⚙️ Daily stack: `.js`, `.react`, `.node`, `.express`, `.mongodb`
+- ⚙️ Daily stack: `.js`, `.ts`, `Node`, `Express`, `MongoDB`,`React`,`Tailwind`,`Git`
 - 🚀 Building modern full-stack applications with clean architecture
 - 🧠 Exploring AI integration & scalable backend systems
 - 📈 Focused on performance, APIs & real-world problem solving
