@@ -1,12 +1,39 @@
 ### Hello there 👋
 
-#### MERN Stack Developer ☼ crafting scalable web experiences & AI-powered solutions ☾
+#### Systems-Oriented Full-Stack Engineer crafting scalable backend architectures, modern web platforms & AI-powered applications ☾
 
-Building scalable full-stack applications with clean architecture, modern backend systems & seamless user experiences;<br>
-Focused on creating impactful products using the MERN stack and AI-powered technologies;<br>
+Building production-focused full-stack applications with clean architecture, scalable APIs, and seamless user experiences.<br>
+Focused on backend engineering, real-world systems, performance optimization, and AI-integrated solutions.<br>
 
-- ⚙️ Daily stack: `.js`, `.ts`, `Node`, `Express`, `MongoDB`,`React`,`Tailwind`,`Git`
-- 🚀 Building modern full-stack applications with clean architecture
-- 🧠 Exploring AI integration & scalable backend systems
-- 📈 Focused on performance, APIs & real-world problem solving
-- 💬 `ping` me about **mern stack**, **backend development**, **web apps**, **AI**
+
+### Engineering Focus
+
+- ⚙️ Scalable backend systems & REST API architecture
+- 🚀 Modern full-stack applications with clean, maintainable code
+- 🧠 AI integration, automation & intelligent web experiences
+- 📈 Performance-focused development, caching & real-world problem solving
+- 🔧 Exploring system design, infrastructure & scalable architectures
+
+
+### Tech Stack
+
+#### Frontend
+`React` • `Next.js` • `TypeScript` • `TailwindCSS` • `Redux`
+
+#### Backend
+`Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `WebSockets`
+
+#### Database & Infrastructure
+`MongoDB` • `PostgreSQL` • `Redis` • `Docker` • `Git`
+
+
+### Current Focus
+
+- Building scalable backend architectures
+- Exploring AI-powered application workflows
+- Improving API performance & system design skills
+- Developing production-style full-stack applications
+
+---
+
+💬 `ping` me about **backend systems**, **full-stack engineering**, **APIs**, **AI applications**, **scalable web platforms**
