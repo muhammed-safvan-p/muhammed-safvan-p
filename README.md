@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Systems-Oriented Full-Stack Engineer crafting scalable backend architectures, modern web platforms & AI-powered applications ☾
+#### Systems-Oriented Full-Stack Engineer crafting scalable backend architectures, modern web platforms & AI-powered applications ☼
 
 Building production-focused full-stack applications with clean architecture, scalable APIs, and seamless user experiences.<br>
 Focused on backend engineering, real-world systems, performance optimization, and AI-integrated solutions.<br>
